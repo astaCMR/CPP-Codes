@@ -1,0 +1,19 @@
+# Ignore build files and executables
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac and Windows OS files
+.DS_Store
+Thumbs.db
